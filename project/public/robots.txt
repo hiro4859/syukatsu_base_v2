@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shukatsu-task-manage-b9fg.bolt.host/sitemap.xml
